@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on ...small projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...HTML,CSS,JavaScript
-- 📫 How to reach me: [Twiter](@Tobin_Official)...
-- - 📫 How to reach me:+260964754040/email:tobinchilongojnr@gmail.com 
+- 📫 How to reach me: [Twiter](www.twitter.com/@Tobin_Official)...
+- 📫 How to reach me:+260964754040/email:tobinchilongojnr@gmail.com 
 - ⚡ Fun fact: ... I am a Singer
 
 
