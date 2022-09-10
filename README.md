@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Richard Opiyo, a Full Stack Software Engineer/ Systems Developer.
+I'm , Tobin Chilongo Full Stack Software Engineer/ Systems Developer.
 I graduated from @microverseinc as a Full-Stack developer.
 I Spend most of time coding outstanding projects and learning new technologies.
 
 :mailbox: Reach out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@richard_oppiyo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/richard_oppiyo)](https://twitter.com/richard_oppiyo) 
+[![Twitter Badge](https://img.shields.io/badge/-@Tobin_Official?
+style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/richard_oppiyo)](https://twitter.com/Tobin_Official) 
 [![Linkedin Badge](https://img.shields.io/badge/-richardoppiyo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardoppiyo/) 
 [![Mail Badge](https://img.shields.io/badge/-richardoppiyo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:richardoppiyo@gmail.com)
 
