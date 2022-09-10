@@ -6,7 +6,7 @@ I Spend most of time coding outstanding projects and learning new technologies.
 
 :mailbox: Reach out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tobin_Official-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tobin_Official)](https://twitter.com/Tobin_Official) 
+[![Twitter Badge](https://img.shields.io/badge/-@TobinOfficial-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tobin_Official)](https://twitter.com/Tobin_Official) 
 [![Linkedin Badge](https://img.shields.io/badge/-Tobin_(Luluwa)_Chilongo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobin-chilongo/) 
 [![Mail Badge](https://img.shields.io/badge/-tobinchilongo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tobinchilongojnr@gmail.com)
 
