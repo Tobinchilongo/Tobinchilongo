@@ -16,7 +16,7 @@ I Spend most of time coding outstanding projects and learning new technologies.
 - :computer: Most used line of code `git reset `x to make sure I'm always fresh!
 - 🤔 I’m open to different kinds of projects collaborative and open source projects, ranging form software to hardware.
 - 📫 Click for instant reach! : tobinchilongojnr@gmail.com.
-- ⚡ Fun fact: I really really love singing and listening to music because I believe music is a universal language that can be communicated in all the universe.
+- ⚡ Fun fact: I really really love singing and listening to music because I believe music is a universal language that can be communicated to across boarders and be understood.
 
 #### Top Technologies
 
