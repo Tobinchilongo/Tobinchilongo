@@ -51,10 +51,10 @@ I Spend most of time coding outstanding projects and learning new technologies.
 
  
 #### Github Stats
-[![Tobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardoppiyo&theme=gruvbox)](https://github.com/richardoppiyo/github-readme-stats)
+[![Tobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobinChilongoJnr&theme=gruvbox)](https://github.com/richardoppiyo/github-readme-stats)
 <!-- 
 #### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardoppiyo&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TobinCilongoJnr&layout=compact"/>
  -->
 #### Contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardoppiyo"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TobinChilongoJnr"/>
